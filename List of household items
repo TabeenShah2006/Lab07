@@ -7,4 +7,8 @@ Console.WriteLine("Invertor");
 
 
 
+ 
 Console.WriteLine("Vacuum cleaner");
+
+Console.WriteLine("Dryer");
+ 
