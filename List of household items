@@ -4,3 +4,7 @@ Console.WriteLine("Microwave");
 Console.WriteLine("Ironr");
 Console.WriteLine("Juicer");
 Console.WriteLine("Invertor");
+
+
+
+Console.WriteLine("Dryer");
