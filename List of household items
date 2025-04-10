@@ -1,0 +1,6 @@
+The List of household items:
+Console.WriteLine("Refrigerator");
+Console.WriteLine("Microwave");
+Console.WriteLine("Ironr");
+Console.WriteLine("Juicer");
+Console.WriteLine("Invertor");
